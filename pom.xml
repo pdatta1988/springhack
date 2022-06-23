@@ -4,12 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.tcs.hack</groupId>
-    <artifactId>spring-hack</artifactId>
-    <version>0.1</version>
+    <artifactId>springhack</artifactId>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>Spring-Resource-Booking-Hackathon</name>
     <description>Spring Boot Hackathon Project</description>
+    
 
     <parent>
         <groupId>org.springframework.boot</groupId>
