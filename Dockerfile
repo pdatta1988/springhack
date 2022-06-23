@@ -1,5 +1,5 @@
 
-FROM openjdk:11
+FROM openjdk:8
 RUN apk add --no-cache tzdata
 RUN apk add busybox-extras
 ENV TZ Europe/Helsinki
